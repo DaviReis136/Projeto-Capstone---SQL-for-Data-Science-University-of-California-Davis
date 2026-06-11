@@ -81,7 +81,7 @@ Through these analyses, I supported decision-making processes by transforming ra
 
 # Query 8
 
-<img width="542" height="296" alt="Captura de tela 2026-06-11 193540" src="https://github.com/user-attachments/assets/36ae9b02-2732-4677-a319-73c48e97586a" />
+<img width="643" height="274" alt="888" src="https://github.com/user-attachments/assets/73d7eed5-dbdf-4392-8993-27f8b98f2e2d" />
 <img width="606" height="455" alt="Captura de tela 2026-06-11 193555" src="https://github.com/user-attachments/assets/357a9c6a-0618-43ba-9b82-f05d32a85f06" />
 <img width="630" height="464" alt="Captura de tela 2026-06-11 193614" src="https://github.com/user-attachments/assets/4cefb7e0-ad49-4cbb-9475-b83c4d90ecb7" />
 
