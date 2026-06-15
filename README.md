@@ -34,11 +34,15 @@ Through these analyses, I supported decision-making processes by transforming ra
 
 # Query 1 
 
-<img width="406" height="142" alt="111" align ='left' src="https://github.com/user-attachments/assets/b0de29af-3933-4b45-962b-1dff46dfb01a" />
-<img width="500" height="900" alt="ad_page-0001" src="https://github.com/user-attachments/assets/17c940ef-c458-448e-8009-f3f8f71de8c2" />
+<img width="406" height="142" alt="111" align ='center' src="https://github.com/user-attachments/assets/b0de29af-3933-4b45-962b-1dff46dfb01a" />
+
+<div class="galeria-linha" align ='left'>
+<img width="500" height="898" alt="ad_page-0001" src="https://github.com/user-attachments/assets/17c940ef-c458-448e-8009-f3f8f71de8c2" />
 <img width="500" height="900" alt="ad_page-0002" src="https://github.com/user-attachments/assets/ab1c3147-3b53-4a24-add1-d7ddad612699" />
 <img width="500" height="900" alt="ad_page-0003" src="https://github.com/user-attachments/assets/9ec96ed4-21ff-45d0-8c78-38d795d9754b" />
 <img width="500" height="900" alt="ad_page-0004" src="https://github.com/user-attachments/assets/cb0d09fd-3233-4deb-812c-a04eb9d918d4" />
+  </div>
+
 
 # Query 2
 
@@ -48,10 +52,13 @@ Through these analyses, I supported decision-making processes by transforming ra
 
 # Query 3
 
-<img width="355" height="129" alt="333" align = 'left' src="https://github.com/user-attachments/assets/936ebcee-ab40-4e53-9456-d2bbc77b9890" />
-<img width="500" height="900" alt="addd_page-0001" src="https://github.com/user-attachments/assets/803ed876-bb5b-434e-bc5a-7ded7c953d97" />
+<img width="355" height="129" alt="333" align = 'center' src="https://github.com/user-attachments/assets/936ebcee-ab40-4e53-9456-d2bbc77b9890" />
+
+<div class="galeria-linha" align ='left'>
+<img width="500" height="898" alt="addd_page-0001" src="https://github.com/user-attachments/assets/803ed876-bb5b-434e-bc5a-7ded7c953d97" />
 <img width="500" height="900" alt="addd_page-0002" src="https://github.com/user-attachments/assets/b46518fa-5f43-4980-a39d-eb22160a3797" />
 <img width="500" height="900" alt="addd_page-0003" src="https://github.com/user-attachments/assets/2918dc8c-27a7-4d06-925c-0f9d0359b80c" />
+  </div>
 
 
 # Query 4
