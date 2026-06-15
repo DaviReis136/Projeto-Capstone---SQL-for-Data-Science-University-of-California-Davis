@@ -105,17 +105,19 @@ Through these analyses, I supported decision-making processes by transforming ra
 
 <img width="568" height="456" alt="Captura de tela 2026-06-11 193814" src="https://github.com/user-attachments/assets/9110a73e-6480-4559-a45e-df272336ab52" />
 <img width="464" height="472" alt="Captura de tela 2026-06-11 193844" src="https://github.com/user-attachments/assets/731d2300-7d72-4fba-bab0-68b982940829" />
-<img width="494" height="466" alt="Captura de tela 2026-06-11 193857" src="https://github.com/user-attachments/assets/12097083-a5f2-47f6-8fb3-d00431c0860c" />
+<img width="494" height="472" alt="Captura de tela 2026-06-11 193857" src="https://github.com/user-attachments/assets/12097083-a5f2-47f6-8fb3-d00431c0860c" />
 
 # Query 10
-
+<div class="galeria-linha" align ='left'>
 <img width="519" height="155" alt="Captura de tela 2026-06-11 194007" src="https://github.com/user-attachments/assets/8c7be49e-fa80-4148-9718-5be8d23a4f4b" />
-<img width="246" height="74" alt="Captura de tela 2026-06-11 194027" src="https://github.com/user-attachments/assets/cc35b1fc-ebad-4c70-a51b-b8cf2a3cc6f0" />
-
+<img width="246" height="74" alt="Captura de tela 2026-06-11 194027" slign='left'  src="https://github.com/user-attachments/assets/cc35b1fc-ebad-4c70-a51b-b8cf2a3cc6f0" />
+<div/>
 
 # Function to Update The DataBase
 
 <img width="940" height="460" alt="Function_to_Update_DataBase" src="https://github.com/user-attachments/assets/205ce7cd-bf80-4cae-b47a-c80b37744326" />
+
+I used this function to remove commas to perform calculations from the database.
 
 # DataBase
 
