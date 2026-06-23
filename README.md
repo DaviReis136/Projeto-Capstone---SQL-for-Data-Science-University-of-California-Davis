@@ -53,6 +53,9 @@ Through these analyses, I supported decision-making processes by transforming ra
 # Query 2
 
 <img width="609" height="239" alt="222" align = 'center' src="https://github.com/user-attachments/assets/74335467-670e-4300-a3a9-7dc98f25213e" />
+
+#
+
 <img width="337" height="360" alt="222" align = 'center' src="https://github.com/user-attachments/assets/6b99aa8d-4913-4c69-aa1f-8f65416a0d87" />
 
 
@@ -114,11 +117,17 @@ Through these analyses, I supported decision-making processes by transforming ra
 # Query 7
 
 <img width="705" height="464" alt="Captura de tela 2026-06-11 193243" src="https://github.com/user-attachments/assets/e5108449-4daf-4c6f-baf2-9a86a5c08e16" />
+
+#
+
 <img width="969" height="210" alt="Captura de tela 2026-06-11 193338" src="https://github.com/user-attachments/assets/991a3962-5bb7-4dea-887f-e45ce84e0ed1" />
 
 # Query 8
 
 <img width="643" height="274" alt="888" src="https://github.com/user-attachments/assets/73d7eed5-dbdf-4392-8993-27f8b98f2e2d" />
+
+#
+
 <img width="606" height="455" alt="Captura de tela 2026-06-11 193555" src="https://github.com/user-attachments/assets/357a9c6a-0618-43ba-9b82-f05d32a85f06" />
 <img width="630" height="464" alt="Captura de tela 2026-06-11 193614" src="https://github.com/user-attachments/assets/4cefb7e0-ad49-4cbb-9475-b83c4d90ecb7" />
 
@@ -127,12 +136,18 @@ Through these analyses, I supported decision-making processes by transforming ra
 
 
 <img width="568" height="456" alt="Captura de tela 2026-06-11 193814" src="https://github.com/user-attachments/assets/9110a73e-6480-4559-a45e-df272336ab52" />
+
+#
+
 <img width="464" height="472" alt="Captura de tela 2026-06-11 193844" src="https://github.com/user-attachments/assets/731d2300-7d72-4fba-bab0-68b982940829" />
 <img width="494" height="472" alt="Captura de tela 2026-06-11 193857" src="https://github.com/user-attachments/assets/12097083-a5f2-47f6-8fb3-d00431c0860c" />
 
 # Query 10
-<div class="galeria-linha" align ='left'>
+<div class="galeria-linha" align ='left'>  
 <img width="519" height="155" alt="Captura de tela 2026-06-11 194007" src="https://github.com/user-attachments/assets/8c7be49e-fa80-4148-9718-5be8d23a4f4b" />
+
+#
+
 <img width="246" height="74" alt="Captura de tela 2026-06-11 194027" slign='left'  src="https://github.com/user-attachments/assets/cc35b1fc-ebad-4c70-a51b-b8cf2a3cc6f0" />
 <div/>
 
